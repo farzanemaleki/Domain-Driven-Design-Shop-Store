@@ -1,0 +1,14 @@
+D:\OwnProjects\shopStore\Core\bin\Debug\net7.0\Core.deps.json
+D:\OwnProjects\shopStore\Core\bin\Debug\net7.0\Core.runtimeconfig.json
+D:\OwnProjects\shopStore\Core\bin\Debug\net7.0\Core.dll
+D:\OwnProjects\shopStore\Core\bin\Debug\net7.0\Core.pdb
+D:\OwnProjects\shopStore\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+D:\OwnProjects\shopStore\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\OwnProjects\shopStore\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+D:\OwnProjects\shopStore\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+D:\OwnProjects\shopStore\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+D:\OwnProjects\shopStore\Core\obj\Debug\net7.0\Core.dll
+D:\OwnProjects\shopStore\Core\obj\Debug\net7.0\refint\Core.dll
+D:\OwnProjects\shopStore\Core\obj\Debug\net7.0\Core.pdb
+D:\OwnProjects\shopStore\Core\obj\Debug\net7.0\Core.genruntimeconfig.cache
+D:\OwnProjects\shopStore\Core\obj\Debug\net7.0\ref\Core.dll
